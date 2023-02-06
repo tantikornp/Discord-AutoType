@@ -1,4 +1,4 @@
-# Discord-AutoType
+# Discord Auto Type
 
 <p >
     <a href="https://www.python.org/doc/" alt="Python 3.7">
